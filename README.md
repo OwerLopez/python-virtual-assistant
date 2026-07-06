@@ -18,5 +18,6 @@ pip install -r requirements.txt  # speechrecognition, pyttsx3, pyaudio
 python main.py
 ```
 
----
-**Ower Frank Lopez Arela** — [Portfolio](https://owerlopez.dev) · [LinkedIn](https://linkedin.com/in/ower-frank-lopez-arela-29558a285)
+## 👥 Team
+
+Built by [@OwerLopez](https://github.com/OwerLopez), [@JoseGordilloMendoza](https://github.com/JoseGordilloMendoza), [@Juerges28](https://github.com/Juerges28) and [@AlejandroPhoccoTapia](https://github.com/AlejandroPhoccoTapia).
